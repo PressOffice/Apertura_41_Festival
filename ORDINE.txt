@@ -1,0 +1,31 @@
+﻿Slide -> file originale (cartella Foto_Apertura Festival 72dpi) [testo in sovrimpressione]
+
+001	Carlo Mearilli_giuria Festival.jpg	[Carlo Mearilli - giuria Festival]
+002	Collegamento in diretta da Buenos Aires con il regista  Uriel Sokolowicz.jpg	[Uriel Sokolowicz - regista (collegamento in diretta da Buenos Aires)]
+003	Claudio Scarpa Console dell'Uruguay a Venezia.jpg	[Claudio Scarpa - Console dell'Uruguay a Venezia]
+004	Rodrigo Diaz e Claudio Scarpa_Console dell'Uruguay a Venezia.jpg	[Rodrigo Díaz - Direttore artistico del Festival del Cinema Ibero-Latino Americano di Trieste | Claudio Scarpa - Console dell'Uruguay a Venezia]
+005	Intervista RAI 3 a Rodrigo Dìaz.jpg	[Rodrigo Díaz - Direttore artistico del Festival del Cinema Ibero-Latino Americano di Trieste]
+006	Rodrigo_Diaz.jpg	(intera su fondo sfocato)	[Rodrigo Díaz - Direttore artistico del Festival del Cinema Ibero-Latino Americano di Trieste]
+007	Rav Ariel Haddad_Rodrigo Diaz_Davide Belleli.jpg	[Rav Ariel Haddad - Rabbino capo della Comunità Ebraica di Slovenia e Coordinatore del Museo ebraico "Carlo e Vera Wagner" di Trieste | Rodrigo Díaz - Direttore artistico del Festival del Cinema Ibero-Latino Americano di Trieste | Davide Belleli - Vicepresidente della Comunità ebraica di Trieste]
+008	Vicepresidente della Comunità ebraica di Trieste_Davide Belleli.jpg	[Davide Belleli - Vicepresidente della Comunità ebraica di Trieste]
+009	vicepresidente_Comunità Ebraica di Trieste Davide Belleli.jpg	(intera su fondo sfocato)	[Davide Belleli - Vicepresidente della Comunità ebraica di Trieste]
+010	Intervista RAI 3 a Davide Belleli.jpg	(intera su fondo sfocato)	[Davide Belleli - Vicepresidente della Comunità ebraica di Trieste]
+011	Intervista RAI 3 a Davide Belleli(1).jpg	[Davide Belleli - Vicepresidente della Comunità ebraica di Trieste]
+012	Rav_Ariel Haddad_Comunità Ebraica di Slovenia.jpg	[Rav Ariel Haddad - Rabbino capo della Comunità Ebraica di Slovenia e Coordinatore del Museo ebraico "Carlo e Vera Wagner" di Trieste]
+013	Rosa Maria Grillo e Vincenzo Granito.jpg	[Rosa Maria Grillo - Giuria | Vincenzo Granito]
+014	regista Arturo Diaz Santana e Yaseck Trejo Quiñones.jpg	(intera su fondo sfocato)	[Arturo Diaz Santana - regista | Yaseck Trejo Quiñones]
+015	MarcoGiorgiutti_Polstato_2.jpg	(intera su fondo sfocato)	[dott. Marco Giorgiutti - Commissario Capo della Polizia di Stato Dipartimento della Pubblica Sicurezza]
+016	MarcoGiorgiutti_Polstato_4.jpg	[dott. Marco Giorgiutti - Commissario Capo della Polizia di Stato Dipartimento della Pubblica Sicurezza]
+017	Pubblico.jpg
+018	Riprese RAI 3 durante l_apertura del Festival.jpg
+019	pubblico durante l_apertura del Festival.jpg
+020	pubblico giorno di inaugurazione Festival.jpg
+021	pubblico sala Museo Ebraico di Trieste.jpg
+022	pubblico_apertura_festival.jpg
+
+Foto escluse come doppie (i file originali non sono stati toccati)
+
+Carlo Mearilli-giuria Festival.jpg	(doppia di Carlo Mearilli_giuria Festival.jpg)
+Rodrigo Diaz.jpg	(doppia di Rodrigo_Diaz.jpg)
+Rosa Maria Grillo_Giuria.jpg	(doppia di Rosa Maria Grillo e Vincenzo Granito.jpg)
+Intervista RAI 3 a Rodrigo Dìaz(1).jpg	(doppia di Intervista RAI 3 a Rodrigo D?az.jpg)

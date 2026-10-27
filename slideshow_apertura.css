@@ -1,0 +1,16 @@
+/* slideshow_apertura - componente indipendente (nessun altro file richiesto, nessuna libreria). Formato 3:2 orizzontale. */
+.slideshow_apertura{position:relative;display:block;width:100%;overflow:hidden;background:#222;line-height:0;max-width:1080px;aspect-ratio:3/2;container-type:inline-size}
+.slideshow_apertura .slideshow_apertura__slide{display:block;position:absolute;inset:0;margin:0;opacity:0;z-index:0}
+.slideshow_apertura .slideshow_apertura__slide:first-child{position:relative}
+.slideshow_apertura .slideshow_apertura__slide img{display:block;width:100%;height:100%;object-fit:cover}
+.slideshow_apertura.is-ready .slideshow_apertura__slide{position:absolute}
+.slideshow_apertura .slideshow_apertura__slide.is-prev{opacity:1;z-index:1}
+.slideshow_apertura .slideshow_apertura__slide.is-active{opacity:1;z-index:2;transition:opacity var(--slideshow_apertura-fade,2s) linear}
+.slideshow_apertura:not(.is-ready) .slideshow_apertura__slide:first-child{opacity:1}
+/* targhetta nome + ruolo: dimensioni in cqw (% della larghezza del box), quindi proporzionali a qualsiasi larghezza */
+.slideshow_apertura .slideshow_apertura__label{position:absolute;left:3.0cqw;bottom:3.0cqw;max-width:64.0cqw;box-sizing:border-box;padding:1.4cqw 2.0cqw;background:rgba(0,0,0,0.62);color:#fff;font-family:"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.25;text-align:left}
+.slideshow_apertura .slideshow_apertura__person{display:block}
+.slideshow_apertura .slideshow_apertura__person+.slideshow_apertura__person{margin-top:0.8cqw}
+.slideshow_apertura .slideshow_apertura__name{display:block;font-size:3.0cqw;font-weight:700}
+.slideshow_apertura .slideshow_apertura__role{display:block;font-size:2.2cqw;font-weight:400}
+@media (prefers-reduced-motion:reduce){.slideshow_apertura .slideshow_apertura__slide.is-active{transition:none}}
